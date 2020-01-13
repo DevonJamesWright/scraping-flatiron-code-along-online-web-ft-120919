@@ -3,7 +3,7 @@ class Course
   @@all = []
   def initialize 
   end 
-  def self.reset_all 
+  def self.all 
     @@all
   end 
 end 
